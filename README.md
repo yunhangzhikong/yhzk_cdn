@@ -1,2 +1,2 @@
 # yhzk_cdn
-yhzk static resource cdn
+云航智控静态图片资源存储
